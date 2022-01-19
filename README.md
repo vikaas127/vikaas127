@@ -8,7 +8,7 @@
 
 🤔 My teckstacks: Flutter & Dart, Firebase, Linux, Git, MySQL.
 
-🎓 Languages: C, C++, Java, Python, HTML, CSS, Javascript.
+🎓 Languages:  Java, Python, Dart,Swift, Kotlin,java Andriod Sdk, Flutter Sdk,Ios
 
 💬 Ask me about App development & Web Development.
 
