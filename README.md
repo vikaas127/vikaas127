@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on App Development.
+🔭 I’m currently working on App Development.(React Native,Flutter,Kotlin,Java,Dart,swift)
 
 🌱 I’m currently learning Backend Web Development and Machine Learning.
 
