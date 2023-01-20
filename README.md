@@ -2,11 +2,11 @@
 
 🔭 I’m currently working on App Development.(React Native,Flutter,Kotlin,Java,Dart,swift)
 
-🌱 I’m currently learning Backend Web Development and Machine Learning.
+🌱 I’m also work on (Node js,) Backend Web Development and  learning  Machine Learning.
 
 👯 I’m looking to collaborate on Full Stack App or Web Development Projects.
 
-🤔 My teckstacks: Flutter & Dart, Firebase, Linux, Git, MySQL.
+🤔 My teckstacks:  React Native,Swift, Kotlin, Flutter & Dart, Firebase, Linux, Git, MySQL.
 
 🎓 Languages:  Java, Python, Dart,Swift, Kotlin,java Andriod Sdk, Flutter Sdk,Ios
 
