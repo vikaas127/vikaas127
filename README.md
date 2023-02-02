@@ -2,7 +2,7 @@
 </p>	
 <img src="https://github.com/vikaas127/vikaas127/blob/main/waves.svg" width="100%" height="150">
 
-# Hi! 👋️ I'm vikas yadav
+# Hi! 👋️ I'm Vikaas Yadav
 
 - 🔭 A passionate **Full Stack developer & founder of StartUpp** from India
 
