@@ -1,4 +1,4 @@
-  <img src="https://github.com/vikaas127/vikaas127/blob/main/logo.png" width="600" height="100">
+  <img src="https://github.com/vikaas127/vikaas127/blob/main/logo.svg" width="600" height="100">
 </p>	
 <img src="https://github.com/vikaas127/vikaas127/blob/main/waves.svg" width="100%" height="100">
 
