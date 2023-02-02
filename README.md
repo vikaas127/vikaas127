@@ -1,5 +1,10 @@
-<h1 align="start">Hi 👋, I'm vikas yadav</h1>
-<h3 align="start">A passionate Full Stack developer & founder of StartUpp from India</h3>
+  <img src="https://github.com/vikaas127/vikaas127/blob/main/logo.svg" width="600" height="150">
+</p>	
+<img src="https://github.com/vikaas127/vikaas127/blob/main/waves.svg" width="100%" height="150">
+
+# Hello! 👋️  I'm vikas yadav
+
+- 🔭 A passionate Full Stack developer & founder of StartUpp from India
 
 - 🔭 I’m currently working on **App Development.(React Native,Flutter,Kotlin,Java,Dart,swift)**
 
