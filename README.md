@@ -5,7 +5,7 @@
 
 # Hi! 👋️ I'm Vikaas Yadav
 
-- 🔭 A passionate **Full Stack developer & founder of Techdotbit** from India
+- 🔭 A passionate **Full Stack developer** from India
 
 - 🔭 I’m currently working on **App Development.(React Native,Flutter,Kotlin,Java,Dart,swift)**
 
